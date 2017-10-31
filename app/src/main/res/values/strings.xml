@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="Add_mode">ADD DATA</string>
+    <string name="Edit_mode">Edit Data</string>
+    <string name="dataadded">dataadded</string>
+    <string name="notAdded">notafdded</string>
+    <string name="FailUpdate">Update fail</string>
+    <string name="true_update">data updated</string>
+    <string name="Confirmation_asked">Some fields are empty! \n data will not be saved</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="quiting_confirmation_asked">Sure quit editing?</string>
+    <string name="discard_changes">Discard changes</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="Confirm_Delet">Confirm delet</string>
+    <string name="delet">Delet</string>
+    <string name="Cancel">Cancel</string>
+    <string name="failed_Delet">delet fail</string>
+    <string name="success_delet">item deleted</string>
+    <string name="Item_sold">Item sold</string>
+    <string name="no_item_left">No item left</string>
+    <string name="all_item_wil_be_added">All items will be deleted</string>
+    <string name="deletdata">Delet</string>
+    <string name="canceldelet">Cancel</string>
+    <string name="orderWarning">Cannot order if some fields are empty!</string>
+    <string name="Eitediting">Exit editing</string>
+</resources>
